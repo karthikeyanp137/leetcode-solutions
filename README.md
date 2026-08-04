@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
