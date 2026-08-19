@@ -6,12 +6,12 @@ public:
         int oc=image[sr][sc];
         if(oc==color) return image;
         queue<pair<int,int>>q;
+        image[sr][sc]=color;
         q.push({sr,sc});
         while(!q.empty()){
             int i=q.front().first;
             int j=q.front().second;
             q.pop();
-            if(image[i][j]==oc) image[i][j]=color;
             if(i>=1  && image[i-1][j]==oc) {
                 image[i-1][j]=color;
                 q.push({i-1,j});
