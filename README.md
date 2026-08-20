@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0704-binary-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
