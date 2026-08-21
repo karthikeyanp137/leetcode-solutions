@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0980-unique-paths-iii) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
