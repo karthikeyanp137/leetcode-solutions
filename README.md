@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0383-ransom-note](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Bracket Sequences
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0383-ransom-note](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
