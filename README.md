@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1020-number-of-enclaves](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## String
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
