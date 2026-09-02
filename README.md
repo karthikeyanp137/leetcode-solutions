@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0354-russian-doll-envelopes](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0704-binary-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0704-binary-search) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
@@ -169,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
