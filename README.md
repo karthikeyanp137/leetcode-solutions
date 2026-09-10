@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -210,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
