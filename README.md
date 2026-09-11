@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0189-rotate-array) |
