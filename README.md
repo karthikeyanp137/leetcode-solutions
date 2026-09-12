@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0202-happy-number) |
 | [2614-prime-in-diagonal](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
