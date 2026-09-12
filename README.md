@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0980-unique-paths-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Union-Find
