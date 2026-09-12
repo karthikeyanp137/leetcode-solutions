@@ -7,7 +7,6 @@ public:
         for(int i=2;i*i<=n;i++){
             if(n%i==0){
                 return 0;
-                break;
             }
         }
         return n;
@@ -17,15 +16,12 @@ public:
         int n=nums.size();
         int prime=0;
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i==j){
-                    prime=max(prime,pri(nums[i][j]));
+                if(nums[i][i]>prime){
+                    prime=max(prime,pri(nums[i][i]));
                 }
-                if(i+j==n-1){
-                    prime=max(prime,pri(nums[i][j]));
+                if(nums[i][n-1-i]>prime){
+                    prime=max(prime,pri(nums[i][n-1-i]));
                 }
-            }
-
         }
         return prime;
     }
