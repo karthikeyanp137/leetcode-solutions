@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [2614-prime-in-diagonal](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0202-happy-number) |
+| [2614-prime-in-diagonal](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [2614-prime-in-diagonal](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/karthikeyanp137/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
